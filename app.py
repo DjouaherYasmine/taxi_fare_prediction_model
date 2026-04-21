@@ -286,7 +286,6 @@ def fare_range(fare):
 st.markdown("""
 <div class="hero">
   <h1>NYC Taxi<br><span class="accent">Fare Predictor</span></h1>
-  <p>JANUARY 2025 · XGBoost · REGRESSION + CLASSIFICATION</p>
 </div>
 """, unsafe_allow_html=True)
 
