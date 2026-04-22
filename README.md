@@ -2,7 +2,7 @@
 
 A portfolio ML app that predicts NYC yellow taxi fares using XGBoost — both a regression model (exact fare) and a classification model (fare range: low / medium / high).
 
-**Live demo:** *(paste your Streamlit Cloud URL here)*
+**Live demo:** https://taxifarepredictionmodel-zzxpfhbqkerndvzp9iefua.streamlit.app/
 
 ---
 
